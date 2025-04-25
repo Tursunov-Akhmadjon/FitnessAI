@@ -1,0 +1,1 @@
+Folder for RAW and PROCESSED data. Create 2 folder and upload dataset accordingly. 
