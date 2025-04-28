@@ -388,3 +388,4 @@ preprocessor = ColumnTransformer(transformers=[
     ('high_card_cat', high_card_cat_features, high_cardinality_cols)
 ])
 
+print(type(preprocessor))
