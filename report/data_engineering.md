@@ -12,7 +12,7 @@ Categorical columns: Missing values were filled with the most frequent (mode) va
 
 All numerical features were standardized using **StandardScaler** for better performance.
 
-# 3. Categorical Encoding
+# 3. Encoding
 
 All categorical features were converted into numerical format using **OneHotEncoder**.
 
