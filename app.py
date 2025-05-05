@@ -156,8 +156,8 @@ def main():
     """, unsafe_allow_html=True)
     
     # Load models
-    sleep_model = joblib.load("models/Sleep_hours.joblib")
-    calorie_model = joblib.load("models/calories_model.joblib")
+    sleep_model = joblib.load("app/Sleep_hours.joblib")
+    calorie_model = joblib.load("app/calories_model.joblib")
     
 
     # Create columns for form layout
